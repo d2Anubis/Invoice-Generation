@@ -75,7 +75,7 @@ export const sellerInvoice = {
     totalQuantity: 35, //sum of quantities
     totalAmount: "6648.85", //sum of amounts
     taxableAmount: "5999.62", // same amount as total amount
-    igst: "649.23", //sum of igst of all the products + 18% of freight and insurance
+    igst: "649.23", //sum of igst of all the products
     amountInWords: "Six Thousand Six Hundred Forty Eight Rupees Eighty Five Paise Only" //taxable amount in words
   },
   bankDetails: {
