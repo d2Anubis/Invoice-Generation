@@ -155,7 +155,7 @@ function TaxInvoiceComponent({ invoiceData }) {
           <tbody>
             {/* Header */}
             <tr>
-              <td colSpan="10" style={{...styles.td, ...styles.header}}>TAX INVOICE</td>
+              <td colSpan="10" style={{...styles.td, ...styles.header}}>EXPORT INVOICE</td>
             </tr>
             
             {/* Company Information */}
